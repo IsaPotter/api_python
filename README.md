@@ -1,5 +1,3 @@
-# API de Cadastro de Pessoas
-
 API desenvolvida em Python utilizando FastAPI.
 
 ## Funcionalidades
